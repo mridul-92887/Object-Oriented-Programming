@@ -12,6 +12,7 @@ public class SimpleCalculator {
 
         System.out.println("Choose operation (+, -, *, /): ");
         char op = sc.next().charAt(0);
+       
 
         double result = 0;
 
