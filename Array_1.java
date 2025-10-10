@@ -15,6 +15,7 @@ class Product {
 public class Array_1 {
     public static void main(String[] args) {
 
+        
         Product p1 = new Product("Ice Cream", 50.0);
         Product p2 = new Product("Burger", 100.0);
         Product p3 = new Product("Juice", 30.0);
@@ -35,6 +36,7 @@ public class Array_1 {
             System.out.print((i+1) + "th Product: ");
             factory[i].display();
         }
+
 
         System.out.println("\n===== Specific Products =====");
         System.out.print("1st Product: "); factory[0].display();
