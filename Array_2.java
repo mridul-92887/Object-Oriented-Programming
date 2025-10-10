@@ -13,7 +13,6 @@ class Product {
         System.out.println("Product Name: " + name + ", Price: " + price);
     }
 }
-
 public class Array_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -46,7 +45,6 @@ public class Array_2 {
             System.out.print((i+1) + "th Product: ");
             factory[i].display();
         }
-
         sc.close();
     }
 }
