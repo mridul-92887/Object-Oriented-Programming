@@ -76,6 +76,7 @@ class Product {
         product1.displayProductDetails();
         product2.displayProductDetails();
         
+        
         scanner.close();
     }
 }
