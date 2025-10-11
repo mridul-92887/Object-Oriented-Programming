@@ -9,7 +9,6 @@ class BankAccount {
         accountNumber = num;
         balance = bal;
     }
-
     // Deposit method
     public void deposit(double amount) {
         balance += amount;
