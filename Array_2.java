@@ -48,3 +48,4 @@ public class Array_2 {
         sc.close();
     }
 }
+
