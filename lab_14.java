@@ -31,7 +31,7 @@ class Product {
 }
 
 // Main class
-public class lgy_14 {
+public class lab_14 {
     public static void main(String[] args) {
         // Creating one Product object
         Product book = new Product();

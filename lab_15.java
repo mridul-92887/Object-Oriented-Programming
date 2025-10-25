@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lgy_11 {
+public class lab_15 {
     public static void main(String[] args) {
         ArrayList<ArrayList<String>> store = new ArrayList<>();
 

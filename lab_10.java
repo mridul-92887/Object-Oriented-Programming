@@ -35,7 +35,7 @@ class BankAccount {
 }
 
 // Main class
-public class lgy_10 {
+public class lab_10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
