@@ -32,7 +32,7 @@ class BankAccount {
     }
 }
 
-public class lgy_8 {
+public class lab_8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -61,7 +61,6 @@ public class lgy_8 {
 
         // Show final info
         acc.showInfo();
-
         sc.close();
     }
 }
