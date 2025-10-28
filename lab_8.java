@@ -58,7 +58,7 @@ public class lab_8 {
         double wit = sc.nextDouble();
         acc.withdraw(wit);
 
-        // Show final info
+
         acc.showInfo();
         sc.close();
     }
