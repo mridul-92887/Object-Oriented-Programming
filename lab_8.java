@@ -46,7 +46,6 @@ public class lab_8 {
         // ✅ Create object using constructor
         BankAccount acc = new BankAccount(accNo, balance);
 
-        // Show initial info
         acc.showInfo();
 
         // Deposit operation
