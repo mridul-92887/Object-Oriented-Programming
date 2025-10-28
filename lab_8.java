@@ -36,7 +36,7 @@ public class lab_8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Taking account info from user
+
         System.out.print("Enter Account Number: ");
         int accNo = sc.nextInt();
 
