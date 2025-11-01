@@ -4,17 +4,18 @@ class Student {
     private int id;
     public String name;
     public String department;
+    
+    // java auto dafault constructor create kore nei  
+    // Student() {
+    //     name = "";
+    //     department = "";
+    //     id = 0;
+    // }
 
-    Student() {
-        name = "";
-        department = "";
-        id = 0;
-    }
-
-    Student(String n, String d) {
-        name = n;
-        department = d;
-    }
+    // Student(String n, String d) {
+    //     name = n;
+    //     department = d;
+    // }
 
     void setId(int i) {
         id = i;
