@@ -14,7 +14,7 @@ class Manager extends Employee {
     String department;
 
     void displayManager() {
-        displayEmployee();  // call parent method
+        displayEmployee();  
         System.out.println("Department: " + department);
     }
 }
@@ -24,7 +24,7 @@ class Director extends Manager {
     int teamSize;
 
     void displayDirector() {
-        displayManager();   // call Manager method
+        displayManager();  
         System.out.println("Team Size: " + teamSize);
     }
 }
