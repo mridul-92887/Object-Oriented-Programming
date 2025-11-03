@@ -19,7 +19,7 @@ class Manager extends Employee {
     }
 }
 
-// Child class 2 (inherits Manager)
+
 class Director extends Manager {
     int teamSize;
 
