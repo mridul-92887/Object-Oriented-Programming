@@ -36,7 +36,6 @@ class Student {
         System.out.println("Department: " + getDepartment());
     }
 }
-
 public class lab_31 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

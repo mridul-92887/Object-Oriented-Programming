@@ -2,7 +2,7 @@
 class Shop {
     protected String email;
 
-    public Shop(String email) {
+    public Shop(String email){
         this.email = email;
     }
 }
