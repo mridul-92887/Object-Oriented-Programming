@@ -9,7 +9,6 @@ class Employee {
     }
 }
 
-// Child class 1
 class Manager extends Employee {
     String department;
 
