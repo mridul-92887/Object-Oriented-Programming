@@ -19,7 +19,6 @@ class Manager extends Employee {
     }
 }
 
-// Child class 2
 class Developer extends Employee {
     String programmingLanguage;
 
@@ -29,7 +28,7 @@ class Developer extends Employee {
     }
 }
 
-// Main class
+
 public class lab_26 {
     public static void main(String[] args) {
         Manager m1 = new Manager();
