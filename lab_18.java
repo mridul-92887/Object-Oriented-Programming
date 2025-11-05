@@ -47,12 +47,10 @@ public class lab_18 {
         System.out.print("Enter Department: ");
         String dept = sc.nextLine();
 
-        // 🔹 Set private variables using setter
         s.setId(id);
         s.setName(name);
         s.setDepartment(dept);
 
-        // 🔹 Access private variables using getter
         System.out.println("\n=== Student Details ===");
         System.out.println("ID: " + s.getId());
         System.out.println("Name: " + s.getName());
