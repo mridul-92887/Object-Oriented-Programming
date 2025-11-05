@@ -1,4 +1,3 @@
-// Parent class
 class Employee {
     String name;
     int id;
@@ -9,12 +8,11 @@ class Employee {
     }
 }
 
-// Child class 1
 class Manager extends Employee {
     String department;
 
     void displayManager() {
-        displayEmployee();  // call parent method
+        displayEmployee(); 
         System.out.println("Department: " + department);
     }
 }
@@ -23,7 +21,7 @@ class Developer extends Employee {
     String programmingLanguage;
 
     void displayDeveloper() {
-        displayEmployee();  // call parent method
+        displayEmployee();  
         System.out.println("Programming Language: " + programmingLanguage);
     }
 }

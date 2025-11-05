@@ -37,10 +37,9 @@ public class lab_18 {
         Scanner sc = new Scanner(System.in);
         Student s = new Student();
 
-        // 🔹 User input using Scanner
         System.out.print("Enter Student ID: ");
         int id = sc.nextInt();
-        sc.nextLine(); // buffer clear
+        sc.nextLine(); 
 
         System.out.print("Enter Name: ");
         String name = sc.nextLine();
