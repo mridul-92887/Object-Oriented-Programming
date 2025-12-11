@@ -26,7 +26,7 @@ class lab_48 {
         Vehicle v1 = new Car();
         Vehicle v2 = new Bike();
 
-        v1.start(); // Car is starting
+        v1.start(); 
         v2.start(); // Bike is starting
     }
 }
