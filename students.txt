@@ -1,2 +1,0 @@
-Atikul Hasan,365,SWE,B+,0987654,atikul@gmail.com,101
-Evan,828,CSE,A-,098765412,shdbfiue@gmail.com,105
