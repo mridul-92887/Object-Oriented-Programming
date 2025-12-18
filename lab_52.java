@@ -38,7 +38,7 @@ class Person {
     
     public void showPersonDetails() {
         System.out.println("Person Name: " + name);
-        System.out.println("Passport Details:");
+        System.out.println("Pass port Details:");
         passport.showPassportDetails();
     }
 }
